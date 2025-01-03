@@ -20,7 +20,7 @@ Debug the reconstruction by running:
 python debug_mvs_by_projecting_pts.py --data_dir data/chair
 ```
 
-![image-20250102151801588](img\image-20250102151801588.png)
+![image](img\image-20250102151801588.png)
 
 
 
@@ -77,4 +77,4 @@ python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 
 #### RESULT
 
-![r_46](chair\epoch_0199\r_46.png)
+![image](chair\epoch_0199\r_46.png)
