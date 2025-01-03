@@ -77,4 +77,4 @@ python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 
 #### RESULT
 
-![image](chair\epoch_0199\r_46.png)
+![image](https://github.com/hanchuqi/SA24001017_HCQ_DIP_HW/blob/master/hw4/chair/epoch_0199/r_46.png)
