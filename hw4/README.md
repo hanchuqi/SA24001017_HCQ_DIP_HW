@@ -20,7 +20,7 @@ Debug the reconstruction by running:
 python debug_mvs_by_projecting_pts.py --data_dir data/chair
 ```
 
-![image]([img\image-20250102151801588.png](https://github.com/hanchuqi/SA24001017_HCQ_DIP_HW/blob/master/hw4/img/image-20250102151801588.png))
+![image](https://github.com/hanchuqi/SA24001017_HCQ_DIP_HW/blob/master/hw4/img/image-20250102151801588.png)
 
 
 
