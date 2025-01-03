@@ -36,4 +36,4 @@ train_results
 
 ![result_1](https://github.com/hanchuqi/SA24001017_HCQ_DIP_HW/blob/master/hw3/train_results/cityscapes/epoch_1600/result_1.png)
 
-val_results![result_2](.\val_results\cityscapes\epoch_1600\result_2.png)
+val_results![result_2](https://github.com/hanchuqi/SA24001017_HCQ_DIP_HW/blob/master/hw3/val_results/cityscapes/epoch_1600/result_1.png)
